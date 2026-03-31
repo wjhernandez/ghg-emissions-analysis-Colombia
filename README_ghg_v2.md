@@ -73,27 +73,6 @@ Exportación CSV → Power BI Dashboard
 
 ---
 
-## Resultados
-
-| KPI (Key Performance Indicator) | 1990 | 2022 | Variación |
-|---|---|---|---|
-| Emisiones CO2 totales (MtCO2) | — | — | — |
-| Emisiones per cápita (tCO2/hab) | — | — | — |
-| Intensidad de carbono (kgCO2/USD PIB) | — | — | — |
-| GHG totales (MtCO2eq) | — | — | — |
-
-*Los valores se completan al ejecutar el notebook con el dataset real.*
-
-### Proyección NDC 2030
-
-| Escenario | Valor proyectado (MtCO2) |
-|---|---|
-| BAU (sin acción adicional) | — |
-| Meta NDC (−51% vs BAU) | — |
-| Brecha de implementación | — |
-
----
-
 ## Estructura del Repositorio
 
 ```
