@@ -125,21 +125,6 @@ El dataset incluye datos actualizados con el Global Carbon Budget 2024 (datos ha
 **4. Ejecutar el notebook**
 ```bash
 jupyter notebook notebook/ghg_emissions_analysis.ipynb
-```
-
-**5. Conectar Power BI**
-Importar los archivos CSV desde `exports/` usando la opción Obtener datos → Texto/CSV.
-
----
-
-## Arquitectura Power BI
-
-El dashboard está diseñado con cuatro páginas:
-
-- **Resumen Ejecutivo ESG:** KPIs globales, semáforo de cumplimiento NDC, tendencia principal
-- **Inventario GHG:** Emisiones por gas (CO2, CH4, N2O), clasificación Scope 1/Scope 2
-- **Comparativa Regional:** Benchmarking Colombia vs América Latina, per cápita, intensidad
-- **Proyección 2030:** Escenario BAU vs trayectoria NDC, brecha de implementación
 
 ---
 
