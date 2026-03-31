@@ -12,7 +12,7 @@
 
 El seguimiento y reporte de emisiones de GHG (Greenhouse Gas — Gases de Efecto Invernadero) es el primer paso de cualquier estrategia de descarbonización. El estándar internacional de referencia es el **GHG Protocol (Greenhouse Gas Protocol — Protocolo de Gases de Efecto Invernadero)**, desarrollado por el WRI (World Resources Institute) y el WBCSD (World Business Council for Sustainable Development).
 
-Colombia se comprometió bajo el Acuerdo de París a reducir sus emisiones GHG en un **51% para 2030** respecto al escenario BAU (Business As Usual — Tendencia sin acción climática), uno de los compromisos NDC (Nationally Determined Contributions — Contribuciones Determinadas a Nivel Nacional) más ambiciosos de América Latina.
+Colombia se comprometió bajo el Acuerdo de París a reducir sus emisiones GHG en un **51% para 2030** respecto al escenario BAU (Business As Usual / Tendencia sin acción climática), uno de los compromisos NDC (Nationally Determined Contributions — Contribuciones Determinadas a Nivel Nacional) más ambiciosos de América Latina.
 
 ### Preguntas de análisis
 
@@ -25,7 +25,7 @@ Colombia se comprometió bajo el Acuerdo de París a reducir sus emisiones GHG e
 
 ## Dataset
 
-**Fuente:** Our World in Data (OWID) — CO2 and Greenhouse Gas Emissions  
+**Fuente:** Our World in Data (OWID), CO2 and Greenhouse Gas Emissions  
 **Referencia:** Ritchie, H., Rosado, P. & Roser, M. (2023). Our World in Data. https://ourworldindata.org/co2-and-greenhouse-gas-emissions  
 **Período:** 1990 — 2022  
 **Cobertura:** 15 países de América Latina + referencia global
@@ -43,25 +43,6 @@ Colombia se comprometió bajo el Acuerdo de París a reducir sus emisiones GHG e
 
 ---
 
-## Metodología
-
-```
-Carga de datos (OWID CSV — descarga directa, sin cuenta requerida)
-    ↓
-EDA — Tendencias históricas, composición por fuente, comparación regional
-    ↓
-Feature Engineering — Intensidad de carbono, Scope 1/Scope 2 estimado
-    ↓
-Regresión Lineal — Modelado de tendencia histórica de emisiones
-    ↓
-Proyección BAU 2030 — Escenario sin acción climática adicional
-    ↓
-Análisis de brecha NDC — Distancia entre BAU y meta comprometida
-    ↓
-KPIs ESG — Resumen ejecutivo formato GRI/GHG Protocol
-    ↓
-Exportación CSV → Power BI Dashboard
-```
 
 ### Clasificación GHG Protocol
 
@@ -145,7 +126,7 @@ Este análisis aplica directamente a:
 - Ritchie, H., Rosado, P. & Roser, M. (2023). *CO₂ and Greenhouse Gas Emissions*. Our World in Data.
 - WRI & WBCSD (2015). *The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard*.
 - UPME (2022). *Factor de Emisión de CO2 de la Red Eléctrica Colombiana*. Unidad de Planeación Minero-Energética.
-- DNP (2021). *Contribución Determinada a Nivel Nacional (NDC) de Colombia — Actualización 2020*.
+- DNP (2021). *Contribución Determinada a Nivel Nacional (NDC) de Colombia. Actualización 2020*.
 - IPCC (2022). *Sixth Assessment Report — Working Group III: Mitigation of Climate Change*.
 
 ---
