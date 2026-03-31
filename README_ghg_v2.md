@@ -78,11 +78,7 @@ El dataset de OWID (Our World in Data) requiere descarga manual:
 
 El dataset incluye datos actualizados con el Global Carbon Budget 2024 (datos hasta 2023).
 
-**4. Ejecutar el notebook**
-```bash
-jupyter notebook notebook/ghg_emissions_analysis.ipynb
 
----
 ## 5. Conclusiones
 Conclusiones
 
