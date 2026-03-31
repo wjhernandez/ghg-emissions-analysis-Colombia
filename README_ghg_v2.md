@@ -68,7 +68,7 @@ Exportación CSV → Power BI Dashboard
 | Scope | Descripción | Aplicación en este análisis |
 |---|---|---|
 | Scope 1 | Emisiones directas por combustión | coal_co2 + oil_co2 + gas_co2 + cement_co2 |
-| Scope 2 | Energía eléctrica indirecta | Consumo eléctrico × Factor emisión red (0.214 tCO2/MWh — UPME 2022) |
+| Scope 2 | Energía eléctrica indirecta | Consumo eléctrico × Factor emisión red (varía anualmente, UPME) |
 | Scope 3 | Otras emisiones indirectas | No incluido en este análisis |
 
 ---
