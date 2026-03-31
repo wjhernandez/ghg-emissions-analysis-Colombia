@@ -1,5 +1,5 @@
 # Análisis de Emisiones GHG y Huella de Carbono
-### Colombia en el Contexto Latinoamericano — Metodología GHG Protocol (Greenhouse Gas Protocol)
+### Colombia en el Contexto Latinoamericano. Metodología GHG Protocol (Greenhouse Gas Protocol)
 
 **Autora:** Wendy J. Hernández  
 **Perfil:** Ingeniería Química · Especialización Ambiental · Data Analytics  
@@ -10,7 +10,7 @@
 
 ## Contexto
 
-El seguimiento y reporte de emisiones de GHG (Greenhouse Gas — Gases de Efecto Invernadero) es el primer paso de cualquier estrategia de descarbonización. El estándar internacional de referencia es el **GHG Protocol (Greenhouse Gas Protocol — Protocolo de Gases de Efecto Invernadero)**, desarrollado por el WRI (World Resources Institute) y el WBCSD (World Business Council for Sustainable Development).
+El seguimiento y reporte de emisiones de GHG (Greenhouse Gas — Gases de Efecto Invernadero) es el primer paso de cualquier estrategia de descarbonización. El estándar internacional de referencia es el **GHG Protocol (Greenhouse Gas Protocol. Protocolo de Gases de Efecto Invernadero)**, desarrollado por el WRI (World Resources Institute) y el WBCSD (World Business Council for Sustainable Development).
 
 Colombia se comprometió bajo el Acuerdo de París a reducir sus emisiones GHG en un **51% para 2030** respecto al escenario BAU (Business As Usual / Tendencia sin acción climática), uno de los compromisos NDC (Nationally Determined Contributions — Contribuciones Determinadas a Nivel Nacional) más ambiciosos de América Latina.
 
