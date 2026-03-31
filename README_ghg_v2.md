@@ -54,31 +54,6 @@ Colombia se comprometió bajo el Acuerdo de París a reducir sus emisiones GHG e
 
 ---
 
-## Estructura del Repositorio
-
-```
-ghg-emissions-colombia/
-├── notebook/
-│   └── ghg_emissions_analysis.ipynb    # Análisis completo
-├── data/
-│   └── (descarga automática desde OWID)
-├── exports/
-│   ├── ghg_colombia_historico.csv      # Serie histórica Colombia
-│   ├── ghg_latam_2022.csv              # Comparativa regional 2022
-│   ├── ghg_proyeccion_ndc_2030.csv     # Escenario BAU vs NDC
-│   └── ghg_kpis_esg_colombia.csv       # KPIs resumen ejecutivo
-├── figures/
-│   ├── fig1_tendencia_co2.png
-│   ├── fig2_composicion_fuentes.png
-│   ├── fig3_intensidad_percapita.png
-│   ├── fig4_inventario_ghg.png
-│   ├── fig5_proyeccion_ndc.png
-│   └── fig6_emisiones_pib.png
-└── README.md
-```
-
----
-
 ## Cómo Ejecutar
 
 **1. Clonar el repositorio**
@@ -108,6 +83,20 @@ El dataset incluye datos actualizados con el Global Carbon Budget 2024 (datos ha
 jupyter notebook notebook/ghg_emissions_analysis.ipynb
 
 ---
+## 5. Conclusiones
+Conclusiones
+
+Colombia muestra una tendencia creciente en emisiones de CO2 desde 1990, aunque con una desaceleración en los últimos años. En comparación con otros países de América Latina, su nivel absoluto de emisiones es moderado, pero mantiene una participación relevante en la región.
+
+La intensidad de carbono de Colombia es relativamente baja frente a economías más industrializadas de la región, lo que indica una matriz energética menos intensiva en carbono. Sin embargo, esta ventaja estructural no es suficiente por sí sola para garantizar el cumplimiento de los compromisos climáticos.
+
+Las emisiones per cápita en Colombia se mantienen por debajo de países como México, Chile o Argentina, lo que refleja tanto el nivel de desarrollo industrial como patrones de consumo energético. Aun así, existe una tendencia al alza que debe ser monitoreada.
+
+El análisis de fuentes de emisión evidencia una alta dependencia de combustibles fósiles, particularmente petróleo y gas, lo que representa un desafío clave para la transición energética.
+
+En el escenario proyectado, Colombia enfrenta un riesgo de no cumplir completamente su meta NDC al 2030 bajo una trayectoria Business As Usual. Esto sugiere la necesidad de acelerar medidas de mitigación, especialmente en sectores energéticos y productivos.
+
+En términos estratégicos, el país tiene una oportunidad clara de avanzar en descarbonización aprovechando su potencial en energías renovables, eficiencia energética y políticas públicas orientadas a reducción de emisiones.
 
 ## Relevancia para Estrategia ESG Empresarial
 
